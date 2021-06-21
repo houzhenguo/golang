@@ -15,8 +15,8 @@ var (
 // 初始化连接
 func initClient() (err error) {
 	rdb = redis.NewClient(&redis.Options{
-		Addr:     "39.96.163.225:6379",
-		Password: "root",  // no password set
+		Addr:     "39.96.163.227:6379",
+		Password: "000000",  // no password set
 		DB:       0,   // use default DB
 		PoolSize: 100, // 连接池大小
 	})
