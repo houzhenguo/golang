@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a87d2e42-6343-4d00-b4d2-a1a049806508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../gee-cache/.idea/gee-cache.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gee-cache/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gee-cache/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gee-cache/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gee-cache/lru/example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gee-cache/lru/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gee-cache/lru/lru.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gee-cache/lru/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gee-cache/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gee-rpc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codec/codec.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codec/gob.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-learn-01/sdk-learn/io/reader.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-learn-01/sdk-learn/string/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
